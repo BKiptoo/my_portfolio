@@ -106,5 +106,6 @@ Feel free to get in touch with me:
 ```
 
 ## License
-``This project is licensed under the `MIT License`. Feel free to use the code as inspiration for your own portfolio!
-Thank you for visiting my portfolio! I’m excited to share my work and connect with others in the tech community.```
+```bash
+This project is licensed under the MIT License. Feel free to use the code as inspiration for your own portfolio!
+Thank you for visiting my portfolio! I’m excited to share my work and connect with others in the tech community.
