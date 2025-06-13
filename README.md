@@ -66,12 +66,6 @@ This portfolio is my digital resume, designed to highlight my technical expertis
 - **Interactive UI**: Includes smooth animations and transitions for a dynamic user experience.
 - **Contact Integration**: Easy access to my contact details and social media profiles for networking.
 
-## Project Highlights
-Here are a few notable projects featured in the portfolio:
-- **Task Manager App**: A JavaScript-based web application for managing tasks with a sleek UI and local storage support. [View Project](https://github.com/bkiptoo/task-manager)
-- **Personal Blog**: A responsive blog site built with HTML, CSS, and JavaScript, showcasing my writing and design skills. [View Project](https://github.com/bkiptoo/personal-blog)
-- **E-commerce Mockup**: A front-end prototype for an e-commerce platform with dynamic product filtering. [View Project](https://github.com/bkiptoo/ecommerce-mockup)
-
 ## Technologies Used
 - **HTML5**: Semantic structure for the website.
 - **CSS3**: Advanced styling with Flexbox, Grid, and CSS animations.
@@ -99,11 +93,11 @@ Open index.html in a web browser:open index.html
 - **Home:** Get introduced to my work and skills.Projects: Explore my portfolio of projects with live demos and source code.About: Learn more about my background, skills, and passions.Contact: Reach out to collaborate or connect.
 ## Contact
 Feel free to get in touch with me:
-```
-- Email: bkiptoo@example.com
+
+- Email: bettsonk@gmail.com
 - GitHub: bkiptoo
-- LinkedIn: Brian Kiptoo
-```
+- ![LinkedIn: Bettson Kiptoo] (https://www.linkedin.com/in/bettson-k-ab023a301/)
+
 
 ## License
 ```bash
